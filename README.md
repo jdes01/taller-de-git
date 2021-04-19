@@ -1,3 +1,2 @@
 # taller-de-git
-
-hola hola
+Hola, soy Diego
